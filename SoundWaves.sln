@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundWaves", "SoundWaves.csproj", "{8C49808F-4A1B-B500-3310-7DF54C437095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundWaves.Editor", "SoundWaves.Editor.csproj", "{68788127-49F1-3E3A-B706-D1594FBA7846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C49808F-4A1B-B500-3310-7DF54C437095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C49808F-4A1B-B500-3310-7DF54C437095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C49808F-4A1B-B500-3310-7DF54C437095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C49808F-4A1B-B500-3310-7DF54C437095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68788127-49F1-3E3A-B706-D1594FBA7846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68788127-49F1-3E3A-B706-D1594FBA7846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68788127-49F1-3E3A-B706-D1594FBA7846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68788127-49F1-3E3A-B706-D1594FBA7846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
